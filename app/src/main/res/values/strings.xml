@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndyV2</string>
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="btnAddStudent">Add Student</string>
+    <string name="enterNewName">Enter New Name</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnAddItem">Add Item</string>
+    <string name="name">Name</string>
+    <string name="url">photoUrl</string>
+    <string name="hintName">Name</string>
+    <string name="hintPhotoURL">URL</string>
+    <string name="uploadImage">Upload Image</string>
+
+    <string-array name="schools">
+        <item>Business</item>
+        <item>Computing</item>
+        <item>Energy</item>
+        <item>Mining</item>
+        <item>Nursing</item>
+    </string-array>
+
+</resources>

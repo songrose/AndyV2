@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123427232142",
+    "firebase_url": "https://andyv2.firebaseio.com",
+    "project_id": "andyv2",
+    "storage_bucket": "andyv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123427232142:android:ecd367c1efaac80c6bacdf",
+        "android_client_info": {
+          "package_name": "com.example.andyv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123427232142-2mvecl317e4eo6t6pv610kq1n6n8196v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andyv2",
+            "certificate_hash": "f0ad378f3c329c299d7090366e0e319dbaa23978"
+          }
+        },
+        {
+          "client_id": "123427232142-o9i24vna436ee3aj8c3ms9f5vg4r99o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiV56QkjhxLH_7lFWYdmglW2EuIetwwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123427232142-o9i24vna436ee3aj8c3ms9f5vg4r99o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
